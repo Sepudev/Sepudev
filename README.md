@@ -2,14 +2,14 @@
 
 <br/>
 
-<p align="center" >Engineer Systems based in Bogotá, Colombia. </p>
+<p align="center" >Systems Engineer located in Bogotá, Colombia. </p>
 
 **Sobre mi:**
 
-- 📱  Apasionado por el desarrollo móvil multiplataforma.
-- 💡  Actualmente me encuentro perfeccionando mis habilidades en Flutter y React Native.
-- 🔨 Constante creación de proyectos.
-- 📫 Contáctame: sepulvedandres8@gmail.com
+- 📱  Passionate about cross-platform mobile development.
+- 💡  I am currently honing my skills in Flutter and React Native.
+- 🔨 Constant creation of projects.
+- 📫 Contact me: sepulvedandres8@gmail.com
 
 **Tecnologías:**
 
@@ -20,4 +20,4 @@
 - HTML, CSS , JS
 
 
-## 🛰 Ver [Portafolio!](https://sepulvedandres.tech/) 
+## 🛰 View [Portfolio!](https://sepulvedandres.tech/) 
