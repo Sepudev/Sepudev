@@ -4,14 +4,14 @@
 
 <p align="center" >Systems Engineer located in Bogotá, Colombia. </p>
 
-**Sobre mi:**
+**About me:**
 
 - 📱  Passionate about cross-platform mobile development.
 - 💡  I am currently honing my skills in Flutter and React Native.
 - 🔨 Constant creation of projects.
 - 📫 Contact me: sepulvedandres8@gmail.com
 
-**Tecnologías:**
+**Tecnologies:**
 
 - Flutter
 - React Native
