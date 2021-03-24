@@ -18,7 +18,7 @@
 - Unity 3D
 - Firebase
 - HTML, CSS , JS
-- React JS
 
+Currently learning MERN (MongoDB, Express Js, React Js, Node Js)
 
 ## 🛰 View [Portfolio!](https://sepulvedandres.tech/) 
