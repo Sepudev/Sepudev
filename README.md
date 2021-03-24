@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="center" >Systems Engineer located in Bogotá, Colombia. </p>
+<p align="center" >Systems Engineer located in Calgary AB, Canadá. </p>
 
 **About me:**
 
@@ -18,6 +18,7 @@
 - Unity 3D
 - Firebase
 - HTML, CSS , JS
+- React JS
 
 
 ## 🛰 View [Portfolio!](https://sepulvedandres.tech/) 
