@@ -2,8 +2,6 @@
 
 <br/>
 
-<p align="center" >Systems Engineer located in Calgary AB, Canadá. </p>
-
 **About me:**
 
 - 📱  Passionate about cross-platform mobile development.
