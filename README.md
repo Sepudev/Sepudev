@@ -7,7 +7,7 @@
 - 📱  Passionate about cross-platform mobile development.
 - 💡  I am currently honing my skills in Flutter and React Native.
 - 🔨 Constant creation of projects.
-- 📫 Contact me: sepulvedandres8@gmail.com
+- 📫 Contact me: sepudev@gmail.com
 
 **Tecnologies:**
 
