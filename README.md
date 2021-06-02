@@ -14,12 +14,12 @@ I'm Andrés Sepúlveda Gómez.
 
 **Tecnologies:**
 
-- Flutter
-- React Native
-- ReactJS
-- HTML, CSS , JS
-- Firebase
-- Unity
+✓ Flutter
+✓ React Native
+✓ ReactJS
+✓ HTML, CSS , JS
+✓ Firebase
+✓ Unity
 
 **Currently learning:**
 
