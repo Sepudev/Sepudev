@@ -8,7 +8,7 @@ I'm Andrés Sepúlveda Gómez.
 **About me:**
 
 - 📱  Passionate about cross-platform mobile development.
-- 💡  I am currently honing my skills in Flutter and React Native.
+- 💡  I'm currently honing my skills in Flutter and React Native.
 - 🔨 Constant creation of projects.
 - 📫 Contact me: sepudev@gmail.com
 
@@ -16,12 +16,17 @@ I'm Andrés Sepúlveda Gómez.
 
 - Flutter
 - React Native
-- Unity 3D
-- Firebase
+- ReactJS
 - HTML, CSS , JS
+- Firebase
+- Unity
 
-Currently learning MERN (MongoDB, Express Js, React Js, Node Js)
+**Currently learning:**
 
-## 🛰 View [Portfolio!](https://sepulvedandres.tech/) 
+- MERN (MongoDB, Express Js, React Js, Node Js)
+- NodeJS
+- Augmented reality
 
-<h1 align='center'><i>Let's code!</i></h1>
+## 🛰 View [Portfolio!](https://www.sepudev.tech/) 
+
+<h1 align='center'><i>Let's code! 🚀</i></h1>
