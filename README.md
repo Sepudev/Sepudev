@@ -17,9 +17,9 @@ I'm Andrés Sepúlveda Gómez.
 ✓ Flutter
 ✓ React Native
 ✓ ReactJS
-✓ HTML, CSS , JS
 ✓ Firebase
 ✓ Unity
+✓ HTML, CSS , JS
 
 **Currently learning:**
 
