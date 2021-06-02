@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Andrés.
+I'm Andrés Sepúlveda Gómez.
 </p>
 
 **About me:**
