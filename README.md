@@ -27,7 +27,7 @@ I'm Andrés Sepúlveda Gómez.
 - Augmented reality
 - React Native animations
 - AI 
-- 
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sepudev&&show_icons=true&theme=radical" alt="Daniela Github Stats">
 </p>  
