@@ -29,7 +29,7 @@ I'm Andrés Sepúlveda Gómez.
 - AI 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepudev&&show_icons=true&theme=radical" alt="Daniela Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepudev&&show_icons=true&theme=vue-dark" alt="Daniela Github Stats">
 </p>  
 
 ## 🛰 View [Portfolio!](https://www.sepudev.tech/) 
