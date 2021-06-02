@@ -1,6 +1,6 @@
 [![Social banner for Sepudev](https://res.cloudinary.com/sepudev/image/upload/v1622664360/home_udql5f.gif)](https://www.sepudev.tech/)
 
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='left'> Hi there! :wave:</h1>
 <p align='center'>
 I'm Andrés Sepúlveda Gómez.
 </p>
