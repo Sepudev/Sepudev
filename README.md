@@ -23,9 +23,9 @@ I'm Andrés Sepúlveda Gómez.
 
 **Currently learning:**
 
+- React Native animations
 - MERN (MongoDB, Express Js, React Js, Node Js)
 - Augmented reality
-- React Native animations
 - AI 
 
 <p align="center">
