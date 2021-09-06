@@ -27,11 +27,7 @@ I'm Andrés Sepúlveda Gómez.
 - MERN (MongoDB, Express Js, React Js, Node Js)
 - Augmented reality
 - AI 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepudev&&show_icons=true&theme=vue-dark" alt="Daniela Github Stats">
-</p>  
-
+  
 ## 🛰 View [Portfolio!](https://www.sepudev.tech/) 
 
 <h1 align='center'><i>Let's code! 🚀</i></h1>
