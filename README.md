@@ -28,6 +28,6 @@ I'm Andrés Sepúlveda Gómez.
 - Augmented reality
 - AI 
   
-## 🛰 View [Portfolio!](https://www.sepudev.tech/) 
+## 🛰 View [Portfolio!]() 
 
 <h1 align='center'><i>Let's code! 🚀</i></h1>
